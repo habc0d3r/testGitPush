@@ -19,6 +19,11 @@ d2 = {
     "email": "boruah@ineuron.ai",
     "surname": "hengul"
 }
+d3 = {
+    "name": "tony",
+    "email": "tony@avengers.com",
+    "surname": "stark"
+}
 
 db1 = client["mongotest"]
 coll = db1['test']
